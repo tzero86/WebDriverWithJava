@@ -2,5 +2,6 @@
 /shelf/
 /workspace.xml
 /vcs.xml
-/.idea
+/.idea/*
 /compiler.xml
+/uiDesigner.xml
