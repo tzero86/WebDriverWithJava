@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 import static org.testng.Assert.assertTrue;
 
-public class ControlClickChallenge extends BaseTests {
+public class ControlClickChallengeTests extends BaseTests {
 
     @Test
     public void testControlClickNewTab(){
